@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nohpaper/release_combocard_simulation/static/css/main.a07bfd88.css",
+    "main.js": "/nohpaper/release_combocard_simulation/static/js/main.75e6784c.js",
+    "static/js/592.68fb0926.chunk.js": "/nohpaper/release_combocard_simulation/static/js/592.68fb0926.chunk.js",
+    "static/media/NotoSansKR-Bold.woff": "/nohpaper/release_combocard_simulation/static/media/NotoSansKR-Bold.ab7f4321e713939dd0e6.woff",
+    "static/media/NotoSansKR-Regular.woff": "/nohpaper/release_combocard_simulation/static/media/NotoSansKR-Regular.3063bb5f061c3bc34f7f.woff",
+    "static/media/NotoSansKR-Light.woff": "/nohpaper/release_combocard_simulation/static/media/NotoSansKR-Light.5d420331bd938927b857.woff",
+    "static/media/MabinogiClassicR.woff": "/nohpaper/release_combocard_simulation/static/media/MabinogiClassicR.e5ceddfe0ed1090696c5.woff",
+    "static/media/combocard_bg.jpg": "/nohpaper/release_combocard_simulation/static/media/combocard_bg.435a3d2f24832b02866b.jpg",
+    "index.html": "/nohpaper/release_combocard_simulation/index.html",
+    "main.a07bfd88.css.map": "/nohpaper/release_combocard_simulation/static/css/main.a07bfd88.css.map",
+    "main.75e6784c.js.map": "/nohpaper/release_combocard_simulation/static/js/main.75e6784c.js.map",
+    "592.68fb0926.chunk.js.map": "/nohpaper/release_combocard_simulation/static/js/592.68fb0926.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a07bfd88.css",
+    "static/js/main.75e6784c.js"
+  ]
+}
